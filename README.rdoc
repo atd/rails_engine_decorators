@@ -10,6 +10,7 @@ This solution was first implemented in the Forem engine, see https://github.com/
 * Kunal Chaudhari, https://github.com/kunalchaudhari
 * Ryan Bigg, https://github.com/radar
 * Philip Arndt, https://github.com/parndt
+* Antonio Tapiador, https://github.com/atd
 
 == Usage
 
