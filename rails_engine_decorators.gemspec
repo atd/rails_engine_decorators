@@ -5,6 +5,7 @@ require "rails_engine_decorators/version"
 
 # Describe your gem and declare its dependencies:
 Gem::Specification.new do |s|
+  s.license       = "MIT"
   s.name        = "rails_engine_decorators"
   s.version     = RailsEngineDecorators::VERSION
   s.authors     = ["Kunal Chaudhari", "Ryan Bigg", "Philip Arndt", "Antonio Tapiador", "Andrey Railscode"]
