@@ -12,6 +12,7 @@ Gem::Specification.new do |s|
   s.homepage    = "https://github.com/atd/rails_engine_decorators"
   s.summary     = "Extend Rails Engine's business logic (models, controllers, helpers, etc.) easily"
   s.description = "Extend Rails Engine's business logic (models, controllers, helpers, etc.) easily from your application or other engine."
+  s.license     = 'MIT'
 
   s.files = Dir["{app,config,db,lib}/**/*"] + ["MIT-LICENSE", "Rakefile", "README.rdoc"]
   s.test_files = Dir["test/**/*"]
